@@ -1,0 +1,49 @@
+*
+{
+background: #fff;
+font-family: 'Outfit', sans-serif;
+margin: 0;
+}
+body
+{
+    margin-left: 10px;
+}
+header
+{
+color: #2971E1;
+background-color: none;
+font-weight: bold;
+}
+.detailImg
+{
+text-align: center;
+margin: 0;
+width: 310px;
+}
+h2
+{
+font-weight: lighter;
+padding-right: 83px;
+}
+button
+{
+border: none;
+border-radius: 50%;
+width: 53px;
+height: 53px;
+background-color: #2971E1;
+}
+img
+{
+width: 17px;
+background: none;
+}
+.container
+{
+color: #2971E1;
+}
+.arrow
+{
+text-align: center;
+margin-top: 84px;
+}
